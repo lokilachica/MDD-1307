@@ -1,0 +1,9 @@
+/* CSS Document */
+
+result { display: block; clear: both; margin: 0 0 15px 15px; }
+term { display: block; clear: both; font-weight: bold; }
+definition { display: block; clear: both; }
+example { display: block; clear: both; color: #666666; }
+partofspeech { display: block; clear: both; font-style: italic; }
+synonym { display: block; clear: both; }
+antonyms { display: none; }
