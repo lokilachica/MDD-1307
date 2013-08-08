@@ -1,0 +1,11 @@
+/* CSS Document */
+
+/* Mobile Styles */
+body {  }
+div#fields { float: none; text-align: left; position: relative; top: 80px; left: 30px; }
+span#button { margin: -10px 0px -15px 0px; position: relative; top: 30px; width: 200px; height: 30px; float: left; text-indent: -9999px; background: url("../img/go_mobile.png") left top no-repeat; }
+div#definitions { margin-top: 200px; }
+#imageresults li { position: relative; left: -30px; }
+hr { display: block; border-color: #06f; }
+#morelink { margin: 10px auto; }
+span.error { }
